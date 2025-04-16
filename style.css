@@ -20,7 +20,7 @@ h1 {
 }
 
 .gallery img {
-  width: 220px;
+  width: 100%;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
